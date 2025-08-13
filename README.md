@@ -1,6 +1,7 @@
 # nanos
 
 [![CircleCI](https://circleci.com/gh/nanovms/nanos.svg?style=svg)](https://circleci.com/gh/nanovms/nanos)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frajbhushanm100%2Fnanos.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frajbhushanm100%2Fnanos?ref=badge_shield)
 
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/115159616/44eb1980-a6f4-11e9-9e7b-df7adf662967" style="width:200px;"/>
@@ -315,3 +316,7 @@ NanoVMs offers [paid support plans](https://nanovms.com/services/subscription).
 If you need email or drift support you will need to sign up for a support plan.
 
 If you'd like more in-depth help reach out to the nanovms folks via drift or email engineering.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frajbhushanm100%2Fnanos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frajbhushanm100%2Fnanos?ref=badge_large)
